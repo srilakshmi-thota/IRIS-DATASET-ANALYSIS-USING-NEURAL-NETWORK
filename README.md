@@ -15,7 +15,7 @@ __Outputs:__\
 ->Plot display the Bivariate Pairwise relationships between features of dataset\
 ->Plot to visualise the input values before and after normalisation\
 ->Cost vs epoch for the trainning data using the NeuralNetwork classifier built\
-->Predicted output values and the species associated for the test data\
+->Predicted output values and the species associated for the test data
 
 Iris setosa is encoded as 0.0001\
 Iris versicolor is encoded as 0.9999
